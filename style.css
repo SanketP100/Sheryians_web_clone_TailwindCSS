@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'NeueMachinaLight';
+    src: url("./All fonts\NeueMachina-Light_gwWCZxVuQl.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'NeueMachina';
+    src: url("./All fonts\NeueMachina-Regular_DQCmjH1st.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Juana';
+    src: url("./All fonts\Fontspring-DEMO-juana-extralightit_toKzXEsfr.ttf") format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

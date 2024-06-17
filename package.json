@@ -1,0 +1,20 @@
+{
+  "name": "sheryians_web_clone_tailwindcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "vite": "^5.2.13"
+  },
+  "description": ""
+}
