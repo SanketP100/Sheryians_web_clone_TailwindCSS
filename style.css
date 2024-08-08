@@ -14,7 +14,7 @@
 
 @font-face {
     font-family: 'roboto';
-    src: url("./All fonts/Roboto.ttf") format('truetype');
+    src: url("./All fonts/Roboto.ttf") format('');
 }
 
 @tailwind base;
