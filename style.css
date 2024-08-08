@@ -12,6 +12,11 @@
     src: url("./All fonts/Fontspring-DEMO-juana-extralightit_toKzXEsfr.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: 'roboto';
+    src: url("./All fonts/Roboto.ttf") format('truetype');
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
