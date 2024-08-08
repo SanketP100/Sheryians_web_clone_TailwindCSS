@@ -10,7 +10,11 @@ Clean Code: Structured with semantic HTML for readability and maintainability.
 
 Efficient Styling: Tailwind CSS utilities ensure quick styling without sacrificing performance.
 
-**Live project :** [Click here]()
+
+**Live project :** [Click here](https://sanketp100.github.io/Sheryians_web_clone_TailwindCSS/)
+
+
+![sheryians com](https://github.com/user-attachments/assets/4793bc04-905c-413b-a9a4-3f588fbc6f60)
 
 
 
